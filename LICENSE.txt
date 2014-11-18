@@ -1,0 +1,25 @@
+SixDev Code License
+
+1. Don't be f***ing jerk.
+	This includes
+	1a. Do not copy any code and call it yours.
+
+2. Do not remove Copyrights and Authors.
+	This includes
+	2a. Do not remove any copyrights from the code.
+	2b. Do not remove any @author comments from the code.
+
+3. Do not redistrubute
+	This includes
+	3a. Do not redistrubute any code compiled or uncompiled.
+
+4. Copyrights And Authors
+	This includes
+	4a. Do not change the copyrights even if you changed the code.
+	4b. You can ADD yourself the authors but you can not remove any.
+	
+5. Sixten Revström
+	This includes
+	5a. Any code using this license will be copyrighted to Sixten Revström.
+	5b. Any code using this license is not allowed to be distrubuted by anybody except Sixten Revström.
+	5c. Sixten Revström holds the right to any code using this license.
